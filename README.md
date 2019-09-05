@@ -1,6 +1,6 @@
 # MICA GD Pack
 
-An extension pack to simplify setting up VS Code for GD 220 and GD 431.
+An extension pack to simplify setting up VS Code for GD 220 and GD 431. [Available on the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=angeliquejw.mica-web).
 
 ## Included Extensions:
   1. [**Auto Rename Tag** by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
