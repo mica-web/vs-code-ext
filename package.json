@@ -10,7 +10,7 @@
         "Extension Packs"
     ],
     "repository": {
-        "url": ""
+        "url": "https://github.com/mica-web/vs-code-ext"
     },
     "publisher": "angeliquejw",
     "extensionPack": [
