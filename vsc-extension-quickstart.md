@@ -13,3 +13,5 @@ Run the following command to generate the extension file:
 
 ### Publishing changes
 After merging any changes into the GH repo, sign into the VS Code Marketplace, click "Publish Extensions." From the extension list, choose "Update" on this extension and upload the new VSIX file.
+
+More detail in Sanik Bajracharya's awesome Medium article here: https://medium.com/@sanik.bajracharya/vscode-how-to-create-your-own-extension-pack-483385644c29
