@@ -2,9 +2,9 @@
     "name": "mica-web",
     "displayName": "MICA GD Pack",
     "description": "VS Code extensions to improve your experiences coding HTML, CSS and JS",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "engines": {
-        "vscode": "^1.38.0"
+        "vscode": "^1.48.0"
     },
     "categories": [
         "Extension Packs"
@@ -16,11 +16,10 @@
     "extensionPack": [
         "christian-kohler.path-intellisense",
         "CoenraadS.bracket-pair-colorizer",
-        "DiegoMolina.css-minify",
         "formulahendry.auto-rename-tag",
+        "glitch.glitch",
         "HookyQR.beautify",
         "pranaygp.vscode-css-peek",
-        "ritwickdey.LiveServer",
         "Zignd.html-css-class-completion"
     ]
 }
