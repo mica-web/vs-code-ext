@@ -5,17 +5,11 @@
 * This folder contains all of the files necessary for your extension pack.
 * `package.json` - this is the manifest file that defines the list of extensions of the extension pack.
 
-## Get up and running straight away
+## Making changes
+Add/remove extensions in the `package.json` and then update the documentation in both `CHANGELOG.md` and `README.md`.
 
-* Press `F5` to open a new window with your extension loaded.
-* Open `Extensions Viewlet` and check your extensions are installed.
+Run the following command to generate the extension file:
+`vsce package`
 
-## Make changes
-
-* You can relaunch the extension from the debug toolbar after making changes to the files listed above.
-* You can also reload (`Ctrl+R` or `Cmd+R` on Mac) the VS Code window with your extension to load your changes.
-
-## Install your extension
-
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+### Publishing changes
+After merging any changes into the GH repo, sign into the VS Code Marketplace, click "Publish Extensions." From the extension list, choose "Update" on this extension and upload the new VSIX file.
